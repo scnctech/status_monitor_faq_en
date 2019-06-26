@@ -1,0 +1,21 @@
+publishDir = "docs"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+theme = "hugo-simpledoc-theme"
+title = "SCNC Status Monitor FAQ"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "SCNC Status Monitor FAQ"
+    author = "SCNC Tech, LLC"
+    keywords = "status, monitor, scnc, faq"
+
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "FAQ"
+    headerDescription = "SCNC - Status Monitor"
+    
