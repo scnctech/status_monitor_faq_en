@@ -2,7 +2,7 @@
 title = "Adding a new website entry"
 
 +++
-To add a **new website entry**, make sure you're on the **"Websites" tab** (as opposed to the "Services" tab) and tap the **plus ("+") button** on the lower right corner. Then:
+To add a **new website entry**, make sure you're on the **"Websites" tab** (as opposed to the "Services" tab) and tap the **plus ("+") button** on the lower right corner.
 
 Enter a **name** for the website entry.
 
