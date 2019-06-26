@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: FAQ entry answer
+pages:
+- content/adding_a_new_website_entry.md
