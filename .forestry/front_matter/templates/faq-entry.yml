@@ -7,3 +7,5 @@ fields:
   config:
     required: true
   label: FAQ entry title
+pages:
+- public/adding-a-new-website-entry.md
