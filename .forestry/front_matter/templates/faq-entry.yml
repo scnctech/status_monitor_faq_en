@@ -1,4 +1,18 @@
 ---
 label: faq entry
 hide_body: false
-fields: []
+fields:
+- name: faq_entry_title
+  type: text
+  config:
+    required: true
+  label: FAQ entry title
+- name: faq_entry_answer
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: FAQ entry answer
