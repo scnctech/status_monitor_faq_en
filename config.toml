@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "http://example.org/"
+baseURL = "https://scnctech.github.io/status_monitor_faq_en/"
 languageCode = "en-us"
 
 theme = "hugo-simpledoc-theme"
