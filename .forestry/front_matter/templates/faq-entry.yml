@@ -1,4 +1,31 @@
 ---
 label: faq entry
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: title
+- name: date
+  type: datetime
+  label: date
+  description: date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: anchor
+  type: text
+  config:
+    required: false
+  label: anchor
+  description: anchor
+- name: weight
+  type: text
+  config:
+    required: false
+  label: weight
+  description: weight
