@@ -29,3 +29,5 @@ fields:
     required: false
   label: weight
   description: weight
+pages:
+- content/adding-a-new-website-entry.md
