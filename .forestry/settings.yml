@@ -3,26 +3,7 @@ new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections:
-- type: directory
-  path: public
-  label: QA
-  create: all
-  match: "**/*"
-  templates:
-  - faq-entry
-- type: directory
-  path: public/docs
-  label: Questions
-  create: all
-  match: "**/*"
-- type: directory
-  path: public/entries
-  label: Pages
-  create: all
-  match: "*"
-  templates:
-  - faq-entry
+sections: 
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
