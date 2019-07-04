@@ -7,6 +7,3 @@ fields:
   config:
     required: true
   label: FAQ entry title
-pages:
-- public/docs/privacy-policy.md
-- public/docs/privacy-policy.md
