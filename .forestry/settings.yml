@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: public
+  label: QA
+  create: all
+  match: "**/*"
+  templates:
+  - faq-entry
+- type: directory
   path: public/docs
   label: Questions
   create: all
