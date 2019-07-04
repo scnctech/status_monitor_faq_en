@@ -1,4 +1,4 @@
-publishDir = "docs"
+#publishDir = "docs"
 baseURL = "https://scnctech.github.io/status_monitor_faq_en/"
 languageCode = "en-us"
 
