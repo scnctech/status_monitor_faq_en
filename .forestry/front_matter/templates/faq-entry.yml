@@ -8,8 +8,5 @@ fields:
     required: true
   label: FAQ entry title
 pages:
-- public/adding-a-new-website-entry-1.md
-- public/entries/adding-a-new-website-entry.md
 - public/docs/privacy-policy.md
 - public/docs/privacy-policy.md
-- public/entries/adding-a-new-website-entry.md
