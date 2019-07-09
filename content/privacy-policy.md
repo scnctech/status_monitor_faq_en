@@ -2,7 +2,7 @@
 anchor = "privacy-policy"
 date = "2019-07-04T03:00:00+00:00"
 title = "Privacy Policy"
-weight = 1
+weight = 2
 
 +++
 ## Privacy Policy
