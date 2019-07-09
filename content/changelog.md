@@ -7,7 +7,7 @@ weight = 2
 +++
 ## 0.0.3
 
-July 7th - 2019
+July 9th - 2019
 
 * Fixed "Always offline" bug
 * Fixed "Not deleting website history when you delete website" bug
