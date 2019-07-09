@@ -10,7 +10,10 @@ weight = 2
 * Fixed "Always offline" bug
 * Fixed "Not deleting website history when you delete website" bug
 * Added settings (they still don't work though!)
-* 
+* All styles through themes now.
+* The app now checks if a website exists before adding it to your list.
+* Can't have multiple entries with the same name.
+* Can't have multiple entries with the same URL.
 
 ## 0.0.2
 
