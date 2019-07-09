@@ -1,14 +1,13 @@
 +++
 anchor = "changelog"
 date = "2019-07-09T03:00:00+00:00"
-draft = true
 title = "Changelog"
 weight = 1
 
 +++
-## 0.0.1
+## 0.0.3
 
-First alpha! 
+* Fixed "Always offline" bug
 
 ## 0.0.2
 
@@ -19,6 +18,6 @@ First alpha!
 * New privacy policy link... 
 * FAQ section is now live.
 
-## 0.0.3
+## 0.0.1
 
-* Fixed "Always offline" bug
+First alpha! 
