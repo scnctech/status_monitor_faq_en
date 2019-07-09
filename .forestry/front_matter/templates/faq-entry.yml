@@ -30,5 +30,6 @@ fields:
   label: weight
   description: weight
 pages:
+- content/changelog.md
 - content/privacy-policy.md
 - content/adding-a-new-website-entry.md
