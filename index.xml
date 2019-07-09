@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Changelog</title>
-      <link>https://scnctech.github.io/status_monitor_faq_en/changelog/</link>
-      <pubDate>Tue, 09 Jul 2019 03:00:00 +0000</pubDate>
-      
-      <guid>https://scnctech.github.io/status_monitor_faq_en/changelog/</guid>
-      <description>0.0.3  Fixed &amp;ldquo;Always offline&amp;rdquo; bug Fixed &amp;ldquo;Not deleting website history when you delete website&amp;rdquo; bug Added settings (they still don&amp;rsquo;t work though!)   0.0.2  Can&amp;rsquo;t have websites without a name anymore. Only spaces is not an option for site names now. About section stuff&amp;hellip; Now it detects when you&amp;rsquo;re offline. New privacy policy link&amp;hellip; FAQ section is now live.  0.0.1 First alpha!</description>
-    </item>
-    
-    <item>
       <title>Privacy Policy</title>
       <link>https://scnctech.github.io/status_monitor_faq_en/privacy-policy/</link>
       <pubDate>Thu, 04 Jul 2019 03:00:00 +0000</pubDate>
@@ -29,6 +20,15 @@
       <description>Privacy Policy SCNC Tech, LLC built the Website and Cloud Service Monitor app as a Commercial app. This SERVICE is provided by SCNC Tech, LLC and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://scnctech.github.io/status_monitor_faq_en/changelog/</link>
+      <pubDate>Tue, 09 Jul 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://scnctech.github.io/status_monitor_faq_en/changelog/</guid>
+      <description>0.0.3  Fixed &amp;ldquo;Always offline&amp;rdquo; bug Fixed &amp;ldquo;Not deleting website history when you delete website&amp;rdquo; bug Added settings (they still don&amp;rsquo;t work though!)   0.0.2  Can&amp;rsquo;t have websites without a name anymore. Only spaces is not an option for site names now. About section stuff&amp;hellip; Now it detects when you&amp;rsquo;re offline. New privacy policy link&amp;hellip; FAQ section is now live.  0.0.1 First alpha!</description>
     </item>
     
     <item>
