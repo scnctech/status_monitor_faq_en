@@ -6,10 +6,19 @@
     <description>Recent content on SCNC Status Monitor FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scnctech.github.io/status_monitor_faq_en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://scnctech.github.io/status_monitor_faq_en/changelog/</link>
+      <pubDate>Tue, 09 Jul 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://scnctech.github.io/status_monitor_faq_en/changelog/</guid>
+      <description>0.0.3  Fixed &amp;ldquo;Always offline&amp;rdquo; bug  0.0.2  Can&amp;rsquo;t have websites without a name anymore. Only spaces is not an option for site names now. About section stuff&amp;hellip; Now it detects when you&amp;rsquo;re offline. New privacy policy link&amp;hellip; FAQ section is now live.  0.0.1 First alpha!</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>

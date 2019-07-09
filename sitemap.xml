@@ -3,19 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://scnctech.github.io/status_monitor_faq_en/changelog/</loc>
+    <lastmod>2019-07-09T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scnctech.github.io/status_monitor_faq_en/privacy-policy/</loc>
     <lastmod>2019-07-04T03:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scnctech.github.io/status_monitor_faq_en/adding-a-new-website-entry/</loc>
-    <lastmod>2019-07-04T03:00:00+00:00</lastmod>
+    <loc>https://scnctech.github.io/status_monitor_faq_en/</loc>
+    <lastmod>2019-07-09T03:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://scnctech.github.io/status_monitor_faq_en/</loc>
+    <loc>https://scnctech.github.io/status_monitor_faq_en/adding-a-new-website-entry/</loc>
     <lastmod>2019-07-04T03:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
