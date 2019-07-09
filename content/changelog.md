@@ -7,6 +7,8 @@ weight = 2
 +++
 ## 0.0.3
 
+July 7th - 2019
+
 * Fixed "Always offline" bug
 * Fixed "Not deleting website history when you delete website" bug
 * Added settings (they still don't work though!)
@@ -17,6 +19,8 @@ weight = 2
 
 ## 0.0.2
 
+July 5th -2019
+
 * Can't have websites without a name anymore.
 * Only spaces is not an option for site names now.
 * About section stuff...
@@ -25,5 +29,7 @@ weight = 2
 * FAQ section is now live.
 
 ## 0.0.1
+
+June 29 - 2019
 
 First alpha!
