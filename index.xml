@@ -28,7 +28,9 @@ If you choose to use our Service, then you agree to the collection and use of in
       <pubDate>Tue, 09 Jul 2019 03:00:00 +0000</pubDate>
       
       <guid>https://scnctech.github.io/status_monitor_faq_en/changelog/</guid>
-      <description>0.0.3  Fixed &amp;ldquo;Always offline&amp;rdquo; bug Fixed &amp;ldquo;Not deleting website history when you delete website&amp;rdquo; bug Added settings (they still don&amp;rsquo;t work though!) All styles through themes now. The app now checks if a website exists before adding it to your list. Can&amp;rsquo;t have multiple entries with the same name. Can&amp;rsquo;t have multiple entries with the same URL.  0.0.2  Can&amp;rsquo;t have websites without a name anymore. Only spaces is not an option for site names now.</description>
+      <description>0.0.3 July 7th - 2019
+ Fixed &amp;ldquo;Always offline&amp;rdquo; bug Fixed &amp;ldquo;Not deleting website history when you delete website&amp;rdquo; bug Added settings (they still don&amp;rsquo;t work though!) All styles through themes now. The app now checks if a website exists before adding it to your list. Can&amp;rsquo;t have multiple entries with the same name. Can&amp;rsquo;t have multiple entries with the same URL.  0.0.2 July 5th -2019
+ Can&amp;rsquo;t have websites without a name anymore.</description>
     </item>
     
     <item>
